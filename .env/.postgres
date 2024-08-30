@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST="postgres"
+POSTGRES_PORT=5432
+POSTGRES_DB="nexical_course"
+POSTGRES_USER="OMFbsdyekSyRUNhgdiXfrAKvWMOjkVXA"
+POSTGRES_PASSWORD="sWM5AEBsZKpZu5gZf7gXKLb0lzharMK8FgOqLqTlKmRgZ5hoDfRPBbM2ehQ7kpYh"
